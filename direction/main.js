@@ -208,7 +208,7 @@ function clearSc() {
     ctx.font = "48px 'ＭＳ　Ｐゴシック'"
     ctx.fillText("Tweet", WIDTH / 2, HEIGHT * 9 / 16)
     if (Ktweet()) {
-        openTwitter("DIRECTIONをクリアしました！", "http://kjry0.starfree.jp/direction/index.html", "nueDirection", "KJRY0")
+        openTwitter("DIRECTIONをクリアしました！", "http://kjry0.github.io/direction/index.html", "nueDirection", "KJRY0")
     }
 }
 
